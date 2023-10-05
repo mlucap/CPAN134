@@ -1,0 +1,33 @@
+html {
+    background-color: #fcebb6;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+#wrapper {
+    padding-left: 10em;
+}
+
+nav a {
+    padding-inline: 1em;
+}
+
+header, footer{
+    background-color: #d2b48c;
+    margin-inline: 10em;
+}
+
+footer p {
+    font-size: small;
+    padding: 0;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+dl dt {
+    font-weight: bold;
+}
